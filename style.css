@@ -17,10 +17,10 @@
     text-align: center;
     margin: 40px 0 60px ;
  }
-<<<<<<< HEAD
 
-=======
->>>>>>> 3ad6888cb8f221cc5ef7c2df35261f1488a65951
+ .navbar .container-fluid span{
+   color: rgb(219, 24, 57);
+ }
  form{
     display: flex;
     justify-content: center;
